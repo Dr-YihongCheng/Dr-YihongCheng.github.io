@@ -1,0 +1,71 @@
+title: "Yihong (程奕泓) Cheng"
+name: "Yihong Cheng"
+description: "STEM education • Curriculum & assessment • Educational measurement"
+
+url: "https://dr-yihongcheng.github.io"
+baseurl: ""
+include:
+  - _pages
+
+future: true
+timezone: Asia/Shanghai
+
+theme: null                             # <-- disable default theme
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-include-cache
+  - jemoji
+  - jekyll-remote-theme
+
+author:
+  name: "Yihong (程奕泓) Cheng"
+  avatar: "/assets/img/profile.jpg"     # add Yihong's headshot here
+  bio: "Postdoctoral Fellow (Shuimu Scholar), Institute of Education, Tsinghua University. STEM education, curriculum & assessment, educational measurement."
+  location: "Beijing, China"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:cheng.yihong.z@gmail.com"
+    # Add/replace any of these when available:
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar ai-fw"
+      url: "https://scholar.google.com/citations?user=gYp1Q4IAAAAJ&hl=en"   # replace with Yihong's profile
+    - label: "CV (PDF)"
+      icon: "fas fa-fw fa-file-alt"
+      url: "/assets/cv/Yihong_Cheng_CV.pdf"
+
+# Collections
+collections:
+  posts:
+    output: true
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
+      author_profile: true
+      share: true
+      comments: false
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true
+
+# Exclusions
+exclude:
+  - "node_modules"
+  - "vendor"
+  - "Gemfile.lock"
+  - "README.md"
+  - "LICENSE"

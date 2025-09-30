@@ -5,9 +5,9 @@ author_profile: true
 classes: wide
 ---
 
-Welcome! I’m **Yihong (程奕泓) Cheng**, a **Postdoctoral Fellow (Shuimu Scholar)** at the *Institute of Education, Tsinghua University*.  
-My research and teaching focus on **STEM education**, **curriculum design & assessment**, and **educational measurement**.  
-I collaborate with schools and research groups to design engaging learning experiences and to develop and validate assessment tools — from AI literacy instruments to project-based learning evaluations.  
+Welcome! I’m **Yihong (程奕泓) Cheng**, an **Assistant Professor** at the *School of Education, City University of Macau*.  
+
+My research focuses on **STEM education**, **curriculum & assessment**, and **educational measurement**. I collaborate with colleagues to design engaging STEM education programs and to develop and validate assessment tools that measure key competencies in today’s era of rapid technological transformations—such as computational thinking, AI literacy, global competitiveness, and career readiness.  
 
 > *STEM Education • Curriculum & Assessment • Educational Measurement*
 

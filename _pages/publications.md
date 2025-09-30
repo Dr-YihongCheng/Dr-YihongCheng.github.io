@@ -5,9 +5,10 @@ permalink: /publications/
 
 **Accepted / In press**
 - Cheng, Y., Xiao, X., Jackson, D., Shah, S. A., Abdus-Sabur, F., Hira, A., **Zhang, H.**, & Barnett, M. (2024). *Competent but anxious Smart Greenhouse Makers*. **Journal of Science Education and Technology**.  
-- Su, B., Xiao, X., **Cheng, Y.**, Liu, C., & Yang, C. (2024). *Trajectories of depressive symptom among college students in China during COVID-19*. **Suicide and Life-Threatening Behavior**.
+
 
 **Selected journal articles**
+- Su, B., Xiao, X., **Cheng, Y.**, Liu, C., & Yang, C. (2025). Trajectories of Depressive Symptom Among College Students in China During the COVID‐19 Pandemic: Association With Suicidal Ideation and Insomnia Symptoms. **Suicide and Life‐Threatening Behavior, 55(5)**, e70051.
 - Zhang, H., Lee, I., Ali, S., DiPaola, D., **Cheng, Y.**, & Breazeal, C. (2023). *Integrating ethics and career futures ...*. **Int’l Journal of AI in Education**, 1–35.  
 - Jackson, D., **Cheng, Y.**, Meng, Q., & Xu, Y. (2022). *“Smart” greenhouses and pluridisciplinary spaces ...*. **DISE Research**, 4(1).  
 - Jackson, D., & **Cheng, Y.** (2021). *Maintaining pluralism when embedding CT ...*. **Computer Science Education**.  

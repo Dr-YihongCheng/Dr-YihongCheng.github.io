@@ -7,10 +7,11 @@ baseurl: ""
 include:
   - _pages
 
-future: true
-timezone: Asia/Shanghai
 
-theme: null                             # <-- disable default theme
+future: true
+timezone: Asia/Macau
+
+theme: null
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
 
@@ -26,12 +27,12 @@ plugins:
 author:
   name: "Yihong (程奕泓) Cheng"
   avatar: "/assets/img/profile.JPG"     # add Yihong's headshot here
-  bio: "Postdoctoral Fellow (Shuimu Scholar), Institute of Education, Tsinghua University. STEM education, curriculum & assessment, educational measurement."
-  location: "Beijing, China"
+   bio: "Assistant Professor, School of Education, City University of Macau. STEM education, curriculum & assessment, educational measurement."
+  location: "Taipa, Macao"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:cheng.yihong.z@gmail.com"
+      url: "mailto:yhcheng@cityu.edu.mo"
     # Add/replace any of these when available:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar ai-fw"

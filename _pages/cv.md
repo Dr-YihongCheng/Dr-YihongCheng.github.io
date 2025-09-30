@@ -3,9 +3,6 @@ title: "CV"
 permalink: /cv/
 ---
 
-You can view and download my curriculum vitae here:  
+Download my CV:  
 
-- **PDF:** [Yihong_Cheng_CV.pdf](/assets/cv/Yihong_Cheng_CV.pdf)  
-
-This file contains my full academic and professional record, including education, publications, research experience, teaching, and service.
- 
+- [**PDF Version**](/assets/cv/Yihong_Cheng_CV.pdf)

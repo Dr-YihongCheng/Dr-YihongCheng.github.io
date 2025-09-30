@@ -5,7 +5,7 @@ permalink: /talks/
 
 ### Recent Presentations
 
-- **Excellence Engineer Competencies and AI Literacy in STEM Education**  
+- **Excellent Engineer Competencies and AI Literacy in STEM Education**  
   Institute of Education, Tsinghua University · 2024  
   Invited talk on integrating AI-literacy assessments and competency-based frameworks into undergraduate STEM education.
 

@@ -12,7 +12,7 @@ timezone: Asia/Macau
 # Use Minimal Mistakes via remote theme (disable default theme)
 theme: null
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "air"
 
 plugins:
   - jekyll-feed

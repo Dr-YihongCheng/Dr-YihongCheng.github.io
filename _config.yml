@@ -1,16 +1,15 @@
 title: "Yihong (程奕泓) Cheng"
 name: "Yihong Cheng"
-description: "STEM education • Curriculum & assessment • Educational measurement"
+description: "STEM Education • Curriculum & Assessment • Educational Measurement"
 
 url: "https://dr-yihongcheng.github.io"
 baseurl: ""
-include:
-  - _pages
-
+include: [_pages]
 
 future: true
 timezone: Asia/Macau
 
+# Use Minimal Mistakes via remote theme (disable default theme)
 theme: null
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
@@ -26,27 +25,24 @@ plugins:
 
 author:
   name: "Yihong (程奕泓) Cheng"
-  avatar: "/assets/img/profile.JPG"     # add Yihong's headshot here
-   bio: "Assistant Professor, School of Education, City University of Macau. STEM education, curriculum & assessment, educational measurement."
+  avatar: "/assets/img/profile.jpg"
+  bio: "Assistant Professor, School of Education, City University of Macau. STEM education, curriculum & assessment, educational measurement."
   location: "Taipa, Macao"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:yhcheng@cityu.edu.mo"
-    # Add/replace any of these when available:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar ai-fw"
-      url: "https://scholar.google.com/citations?user=gYp1Q4IAAAAJ&hl=en"   # replace with Yihong's profile
+      url: "https://scholar.google.com/citations?hl=en&user=gYp1Q4IAAAAJ&view_op=list_works&sortby=pubdate"
     - label: "CV (PDF)"
       icon: "fas fa-fw fa-file-alt"
       url: "/assets/cv/Yihong_Cheng_CV.pdf"
 
-# Collections
 collections:
   posts:
     output: true
 
-# Defaults
 defaults:
   - scope:
       path: ""
@@ -63,10 +59,9 @@ defaults:
       layout: "single"
       author_profile: true
 
-# Exclusions
 exclude:
-  - "node_modules"
-  - "vendor"
-  - "Gemfile.lock"
-  - "README.md"
-  - "LICENSE"
+  - node_modules
+  - vendor
+  - Gemfile.lock
+  - README.md
+  - LICENSE
